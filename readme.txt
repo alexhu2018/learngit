@@ -6,12 +6,6 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 
 
-Git can merge
-
-git is a free software
-
-test
-
 20180314:learn git 2 days 
 
 
